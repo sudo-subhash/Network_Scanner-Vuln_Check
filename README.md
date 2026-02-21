@@ -1,4 +1,8 @@
 # Network_Scanner-Vuln_Check
+ - Complete Tool Documentation
+Overview
+
+   Network_Scanner-Vuln_Check is a powerful, user-friendly network security scanning tool that automates the entire process of network reconnaissance and vulnerability assessment. With just one command - entering a target IP or hostname - it performs comprehensive security analysis and provides actionable recommendations.
 
 📖 HOW TO USE THIS TOOL
 Step 1: Run the Tool
@@ -100,7 +104,7 @@ Installation:
 bash
 
 # Install nmap first, then:
-python auto_scanner.py
+python3 Network_Scanner-Vuln_Check
 
 Sample Output:
 text
