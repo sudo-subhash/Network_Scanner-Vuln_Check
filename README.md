@@ -4,7 +4,7 @@
 Step 1: Run the Tool
 bash
 
-python auto_scanner.py
+python3 network_scanner.py
 
 Step 2: Enter Your Target
 
