@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 🔍 AutoScanner - One Command Network Security Scanner
-Author: Security Tool
+Author: sudo-subhash
 Description: Just enter a target, and it automatically scans networks and checks vulnerabilities
 """
 
